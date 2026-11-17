@@ -1,0 +1,16 @@
+# Obsidian local state
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Packet Tracer and archive binaries
+*.pkt
+*.pka
+*.zip
+*.7z
+
+#other
+/quick-workflow.md
