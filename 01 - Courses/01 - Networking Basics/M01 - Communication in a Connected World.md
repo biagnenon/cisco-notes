@@ -3,7 +3,7 @@ course: Networking Basics
 module: "01"
 module-name: Communication in a Connected World
 type: Topic
-status: not-started
+status: in-progress
 difficulty: 1
 tags:
   - cisco
@@ -11,7 +11,7 @@ tags:
   - topic
   - networking-basics
 created: 2026-11-17
-last-reviewed: 2026-11-17
+last-reviewed: 2026-11-18
 ---
 # Communication in a Connected World
 
