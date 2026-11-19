@@ -2,7 +2,7 @@
 course: Template
 type: Lab Template
 module: Template
-status: finished
+status: completed
 tool: Packet Tracer
 tags:
   - cisco
