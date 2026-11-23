@@ -83,4 +83,3 @@ The network infrastructure contains three categories of network infrastructure
 ## Resources
 
 - [x] NetAcad module content
-- [x] Checkpoint exam

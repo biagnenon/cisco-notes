@@ -104,4 +104,3 @@ Three common method of signal transmission :
 ## Resources
 
 - [x] NetAcad module content
-- [x] Checkpoint exam

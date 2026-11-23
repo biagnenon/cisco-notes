@@ -21,8 +21,8 @@ tags:
 | --- | ------------------------------------------ | ------ | ---------------------------------------------------- |
 | 1   | Communication in a Connected World         | 🟢     | [[M01 - Communication in a Connected World]]         |
 | 2   | Network Components, Types, and Connections | 🟢     | [[M02 - Network Components, Types, and Connections]] |
-| 3   | Wireless and Mobile Networks               | 🟡     | [[M03 - Wireless and Mobile Networks]]               |
-| 4   | Build a Home Network                       | ⚪      | [[M04 - Build a Home Network]]                       |
+| 3   | Wireless and Mobile Networks               | 🟢     | [[M03 - Wireless and Mobile Networks]]               |
+| 4   | Build a Home Network                       | 🟡     | [[M04 - Build a Home Network]]                       |
 | 5   | Communication Principles                   | ⚪      | [[M05 - Communication Principles]]                   |
 | 6   | Network Media                              | ⚪      | [[M06 - Network Media]]                              |
 | 7   | The Access Layer                           | ⚪      | [[M07 - The Access Layer]]                           |
